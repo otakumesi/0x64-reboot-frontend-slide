@@ -55,6 +55,8 @@ http://razokulover.hateblo.jp/entry/2017/05/23/131359
 
 # デモ
 
+https://github.com/otakumesi/lifegame
+
 ---
 
 ### 構成
