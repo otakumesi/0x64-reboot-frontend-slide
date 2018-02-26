@@ -6,7 +6,7 @@
 
 ---
 
-@otakumesi (@fa[twitter], @fa[github])
+@otakumesi (@fa[twitter], @fa[github])  
 マッハバイトでエンジニアしてます
 
 ---
@@ -31,7 +31,7 @@ http://razokulover.hateblo.jp/entry/2017/05/23/131359
 
 ---
 
-# なるほど🤔
+# なるほど 🤔
 
 ---
 
