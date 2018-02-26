@@ -43,7 +43,7 @@ http://razokulover.hateblo.jp/entry/2017/05/23/131359
 
 ---
 
-![こんな感じのヤツ]()
+![こんな感じのヤツ](./img/lifegame.gif)
 
 ---
 
@@ -64,7 +64,7 @@ https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%8
 ---
 
 # デモ
-
+http://otakumesi.io/lifegame/
 https://github.com/otakumesi/lifegame
 
 ---
