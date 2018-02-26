@@ -73,7 +73,7 @@ https://github.com/otakumesi/lifegame
 ---
 
 ### 構成
-とりあえず詰め込めそうな奴を詰め込んだ
+とりあえず触りたい奴を詰め込んだ
 
 - ES6
   - preset-env
@@ -81,7 +81,8 @@ https://github.com/otakumesi/lifegame
   - plugin-propsal-object-rest-spread
 - React
 - Redux
-- postcss
+- PostCSS
+- FLOCSS
 
 ---
 
